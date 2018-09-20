@@ -1,2 +1,8 @@
 Flask
+flask-sqlalchemy
+flask-migrate
+flask-login
+flask_wtf
+wtforms
+Pillow
 uwsgi
